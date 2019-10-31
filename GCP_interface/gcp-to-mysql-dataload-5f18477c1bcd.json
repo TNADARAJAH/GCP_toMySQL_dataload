@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gcp-to-mysql-dataload",
+  "private_key_id": "5f18477c1bcdd48ee58bd24646479ced95e0b105",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCUuBfsWOhfx/RC\n4SzwXqQ8l4opvR4LMni/s8LL6VzRG0dcnj8t3V5rCbXOOuOrb+pXvH+HSosl014o\nihPfYClCX2WtDAkIkmIw+W27Kp/ckOfAjgvHXGSPEcwqhi9YNk0FQdmjhMGxucbf\n9ndSJIbUFGTh4VUWhYvJPnojv+yNckzkD/V2Ur58l5BSx9i1I7Aq/uwuKeN0lqBH\nS6zKObar2poYMVzcJkbCKv/WwbnLmi7otBd7WmZaCBYLrZ1jHJaHAXP8Ku4yNHvw\n16z72dYM9xVv0ZHgvSVEjr5MicJIYlIk0ExD2MWEqGTKR7M3goRu/AvbtGYwIFQt\n3AIXr9KnAgMBAAECggEAB5JBwYobNnkfEeKV35zp3p3Wbl6O74H/zL6xnaEBVTH+\n1ZPG4qZg/rENXPT5j0pQ02uo0HH2mJPkuMqizV3/a74glolE0ndlYVnpgLxgTCHi\ncpaoudsV0YTV8JpJQcPt8uUR1/XTyKENI2zQUVHDvXtWUXuf0dg1sCaqoDROrjq+\nF4xjDz53pLoe1D0R8sLhFOff5LyqIYDlUZJyw9p+JEYXPc+/ijrDqlqcQ+KeVvJ5\nEiDVZ5J2cg8HIwPrP9Glm1J9reUIbDCF80qh2DP82hm8CuNu2SGJ0E/r3eIJPsm5\nrFF7MUIffUASlutnxC1TtzXadlxo9Z0Ow5pUOvw7vQKBgQDJo/pzS21GoHCCiuim\nfHOidUBItxNSaKCXzpSggeywqNXOSVdqxy7ZdtyXd1rDk+sjcRClZX4HHKDYYZcl\nmqRXKEnPXTnF2RKsaAVQPCqmLTARiSypUf97STttnyIjkFF84sN/GMc2QvmHT0/4\nSJe3NJF4kgL02129gwmlHylwHQKBgQC8z8umfOCQ+SKZb1YlsIKkpg6uKPm6Mqr4\nIZInnMvG6/HEQgUAPWDbqDOe7QyjAH405GgObJKY+bGTDvD3Zn9GFgLMET/HT0bb\n8KpghWJ0pzkPIc16mkwJDt9xiBWgku6doKSHSjISqVYuUB2yJEYTqSql/ipDaHpI\nWt1sts+akwKBgHUHtDO4glrsgYByyObf8mlG7iGGCDPbP+H75y1lWw+JXlZVIOR7\naIiUwSE0B7zdnCq807F7P3M3PW947LXJlDp1yqkM7ZwUCg+AbB0OXp6GOZDj8cTw\nL3zJmzFbm//SIkl+f4LDydOHebX75WkwEMYnP4sgC5E7xKNaa32noXBNAoGAEAkd\n5K/qaqWeGKXqDR1mmxE3Yfc87mFrP9OqFA8vB1/2kpKA1jpgRYeNisvbLOTX0yoq\n5D64XKGoQTMdqAVefddUuXwljInhHMDd14C8kee54t0eFHGST5qhw4SpQY/5EA4a\nqxrUEd2r4hcPzpdiFD1jz+E8Oalf6VE+SQNlsl0CgYBWy/AM3fPAXXcT+L+2WTxm\nyw7cSxCwTMTThKW+BxJ4/tNWOIndUU4jBWB22MI+NdpjyFfagFjXpBvNkP1jPmVE\nf/rMJOfNn0sIDOvOjLpotdweaOd2NKmcoKHsj3+/4+oBCHyFDgpuFNp+WcyVS/D1\nvyyzilFhDLzhFVbdbTmFCQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bigquery-connect@gcp-to-mysql-dataload.iam.gserviceaccount.com",
+  "client_id": "115244827846323964299",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bigquery-connect%40gcp-to-mysql-dataload.iam.gserviceaccount.com"
+}
