@@ -3,7 +3,8 @@ from google.oauth2 import service_account
 
 
 def get_results():
-    credentials = service_account.Credentials.from_service_account_file(r'C:\Users\thine\PycharmProjects\GCP_toMySQL_dataload\GCP_interface\gcp-to-mysql-dataload-5f18477c1bcd.json')
+    #credentials = service_account.Credentials.from_service_account_file(r'C:\Users\thine\PycharmProjects\GCP_toMySQL_dataload\GCP_interface\gcp-to-mysql-dataload-eadbe0fb2433.json')
+    credentials = service_account.Credentials.from_service_account_file('gcp-to-mysql-dataload-eadbe0fb2433.json')
 
     project_id = 'gcp-to-mysql-dataload'
 
