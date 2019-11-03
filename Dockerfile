@@ -14,15 +14,16 @@ RUN apt-get update \
 
 RUN mkdir -p /usr/src/app/GCP_to_MySQL_Download
 
-RUN ps -aef | grep sql
 
 COPY . /usr/src/app/GCP_to_MySQL_Download
 
 WORKDIR /usr/src/app/GCP_to_MySQL_Download
 
-RUN systemctl start mysql
 
 RUN pip3 install -r requirements.txt
+
+#RUN service mysql start
+#RUN mysql < create_user.sql
 
 EXPOSE 3306/tcp
 
