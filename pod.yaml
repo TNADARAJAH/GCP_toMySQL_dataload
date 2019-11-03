@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: load-from-bq
+  labels:
+    app: mysql
+spec:
+    containers:
+         - name: load-data
+           image: tnadarajah/bq_mysql:v1
+           command: ['bash', '-c', "service mysql start && mysql < create_user.sql && while true; do sleep 5; done"]
