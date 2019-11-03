@@ -1,0 +1,6 @@
+version: '3'
+services:
+  mysql:
+    build: .
+    command: -c "service mysql start && mysql < create_user.sql && while true; do sleep 5; done"
+    tty: true
